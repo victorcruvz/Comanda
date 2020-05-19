@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+
+    <string name="pedidoNuevo">Pedido\nNuevo</string>
+    <string name="pedidoCurso">Pedido en\nCurso</string>
+    <string name="pedidoTerminado">Pedido\nTerminado</string>
+
+    <string name="comida">Comida</string>
+    <string name="bebida">Bebida</string>
+    <string name="postre">Postre</string>
+    <string name="finalizar">Finish</string>
+
+    <string name="hamburguesas">Burguer</string>
+    <string name="alitas">Alitas</string>
+    <string name="bouneles">Bouneles</string>
+    <string name="papas">Papas</string>
+    <string name="costillas">Costillas</string>
+    <string name="paquetes">Paquetes</string>
+    <string name="promociones">Promociones</string>
+
+    <string name="paquete1">Paquete 1</string>
+    <string name="paquete2">Paquete 2</string>
+    <string name="paquete3">Paquete 3</string>
+    <string name="paquete4">Paquete 4</string>
+    <string name="paquete5">Paquete 5</string>
+    <string name="paquete6">Paquete 6</string>
+
+    <string name="bbq">bbq</string>
+    <string name="bufalo">bufalo</string>
+    <string name="bbqBufalo">bbq\nBufalo</string>
+    <string name="bbqMango">bbq\nMango</string>
+    <string name="bufaloLemon">bufalo\nLemon</string>
+    <string name="lemonpeper">lemon\npeper</string>
+    <string name="parmesano">parmesano</string>
+    <string name="bufaloHabanero">bufalo\nHabanero</string>
+    <string name="teriyaki">teriyaki</string>
+    <string name="chipotle">chipotle</string>
+
+    <string name="cantidad">Cantidad</string>
+    <string name="cancelar">Cancel</string>
+    <string name="aceptar">Aceptar</string>
+
+    <string name="res">res</string>
+    <string name="pollo">pollo</string>
+    <string name="arrachera">arrachera</string>
+    <string name="pescado">pescado</string>
+    <string name="doble">doble</string>
+    <string name="especial">especial</string>
+
+    <string name="francesa">francesa</string>
+    <string name="gajo">gajo</string>
+
+    <string name="lunes">lunes</string>
+    <string name="martes">martes</string>
+    <string name="miercoles">miercoles</string>
+    <string name="jueves">jueves</string>
+    <string name="viernes">viernes</string>
+    <string name="sabado">sabado</string>
+
+    <string name="nMesa">Numero\nde Mesa</string>
+
+
+</resources>
